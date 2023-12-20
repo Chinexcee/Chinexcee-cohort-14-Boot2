@@ -1,0 +1,29 @@
+.col-md-3-sidebar{
+  height: 30rem;
+  margin-left: 66px;
+}
+
+.col-6 {
+  /* height: 20rem; */
+}
+
+.col-sm-6{
+  
+  width: 400px;
+  height: 150px;
+  
+}
+
+.col-md-3-sidebar1{
+  height: 20rem;
+  margin-right: 66px;
+}
+
+.col-md-3-sidebar2{
+  height: 20rem;
+  margin-left: 66px;
+}
+
+.col-3 > .bot{
+  margin-bottom: 100px;
+}

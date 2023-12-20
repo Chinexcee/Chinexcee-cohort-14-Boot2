@@ -1,0 +1,38 @@
+.card-img {
+  width: 300px;
+}
+
+.card-text span {
+  font-size: 15px;
+  /* color: aliceblue; */
+}
+
+.card {
+  width: 30%;
+  height: 40%;
+ 
+}
+
+.card-title{
+  /* color: aliceblue; */
+  text-align: center;
+}
+.btn  {
+  background-color: rgb(235, 189, 241);
+  
+
+}
+
+ p{
+  text-align: center;
+}
+
+h1{
+  text-align: end;
+  color: rgb(233, 13, 86);
+  font-weight: bolder;
+}
+
+.container {
+  background-color: rgb(219, 141, 167);
+}
